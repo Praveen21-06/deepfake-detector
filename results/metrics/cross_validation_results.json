@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-08-31T14:18:09.354248",
+  "best_config": {
+    "lr": 0.001,
+    "batch_size": 32,
+    "weight_decay": 1e-05,
+    "epochs": 5
+  },
+  "cv_results": [
+    {
+      "fold": 1,
+      "best_val_acc": 95.125
+    },
+    {
+      "fold": 2,
+      "best_val_acc": 96.5
+    },
+    {
+      "fold": 3,
+      "best_val_acc": 95.5
+    },
+    {
+      "fold": 4,
+      "best_val_acc": 96.125
+    },
+    {
+      "fold": 5,
+      "best_val_acc": 95.75
+    }
+  ],
+  "mean_accuracy": 95.8,
+  "std_accuracy": 0.4782781617427248,
+  "min_accuracy": 95.125,
+  "max_accuracy": 96.5
+}

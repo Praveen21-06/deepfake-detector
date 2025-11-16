@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-31T18:26:27.856703",
+  "results": {
+    "none": 95.55,
+    "gaussian_noise_std0.05": 55.5,
+    "gaussian_noise_std0.1": 50.55,
+    "gaussian_blur_r2": 66.85,
+    "gaussian_blur_r5": 50.55,
+    "jpeg_q50": 93.45,
+    "jpeg_q25": 90.35
+  }
+}
